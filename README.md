@@ -51,7 +51,7 @@
 
 ## Additional Usage Notes (by JP 12/16/20) 
 *When defining electrode contacts and picking them out, the implant list may not always be correct and so the following steps will help us prevent picking out contacts that don't exist as well as preventing us from not picking contacts that are obviously present*
-1. Open up both the implant list and montage form and compare the number of contacts for each trajectory on the implant list to the number of contacts set to channels on the montage form. List any discrepancies under a new column to the far right titled **Research Notes** and in the second row write **By: <YOUR INITIALS>  <TODAY's DATE>**. If there are no discrepancies note that there are no differences between montage and implant list.
+1. Open up both the implant list and montage form and compare the number of contacts for each trajectory on the implant list to the number of contacts set to channels on the montage form. List any discrepancies under a new column to the far right titled **Research Notes** and in the second row write **By:YOUR INITIALS  TODAY's DATE**. If there are no discrepancies note that there are no differences between montage and implant list.
 2. When picking out contacts on voxTool define the electrodes based off of the implant list # of contacts.
 3. When selecting the actual contacts on the CT, if all contacts definied off the implant list are clearly select and lable those contacts.
 4. If a contact is ambiguous (not clearly isolated/defined) then see if that contact is included in the montage form based on previous discrepancies noted.
