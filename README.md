@@ -66,6 +66,8 @@
 *See drawing below*
 
 
+![StripsDiagram](https://github.com/Willie-Lab/Analysis_voxTool/images/StripsDiagram.png)
+
 
 ## Keyboard Shortcuts:
 
