@@ -57,6 +57,15 @@
 4. If a contact is ambiguous (not clearly isolated/defined) then see if that contact is included in the montage form based on previous discrepancies noted.
   * If contact is no on montage, don't select & label it. If it is on the montage, estimate position of contact and label it.
 
+## Strips Localization Guide (by JP 12/30/20)
+*This section will help explain how to localize strips when present in a subject*
+1. Firstly, in voxTool you have the ability to define a certain electrode as a "strip" instead of a "depth".
+2. When figuring out which contact on the strip is contact 1 - look for any indication first on the strip cartoon (if it exists). Sometimes there may be a (1) (2) numbering and in other cases there may be a different type of indiciation.
+3. If there is no clear indiication of numbering, look for a circle where the electrodes tend to meet - that may indicate the location where the pig tails of the strips come out of the dura/cranium. From this, the most distal end (farthest from the "circle") willl be contact 1. 
+
+*See drawing below*
+
+
 
 ## Keyboard Shortcuts:
 
