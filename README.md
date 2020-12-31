@@ -49,25 +49,6 @@
    If the checkbox labelled ```Include Bipolar Pairs``` is checked, locations
    will also be saved for the midpoint of each pair of neighboring contacts.
 
-## Additional Usage Notes (by JP 12/16/20) 
-*When defining electrode contacts and picking them out, the implant list may not always be correct and so the following steps will help us prevent picking out contacts that don't exist as well as preventing us from not picking contacts that are obviously present*
-1. Open up both the implant list and montage form and compare the number of contacts for each trajectory on the implant list to the number of contacts set to channels on the montage form. List any discrepancies under a new column to the far right titled **Research Notes** and in the second row write **By:YOUR INITIALS  TODAY's DATE**. If there are no discrepancies note that there are no differences between montage and implant list.
-2. When picking out contacts on voxTool define the electrodes based off of the implant list # of contacts.
-3. When selecting the actual contacts on the CT, if all contacts definied off the implant list are clearly select and lable those contacts.
-4. If a contact is ambiguous (not clearly isolated/defined) then see if that contact is included in the montage form based on previous discrepancies noted.
-  * If contact is no on montage, don't select & label it. If it is on the montage, estimate position of contact and label it.
-
-## Strips Localization Guide (by JP 12/30/20)
-*This section will help explain how to localize strips when present in a subject*
-1. Firstly, in voxTool you have the ability to define a certain electrode as a "strip" instead of a "depth".
-2. When figuring out which contact on the strip is contact 1 - look for any indication first on the strip cartoon (if it exists). Sometimes there may be a (1) (2) numbering and in other cases there may be a different type of indiciation.
-3. If there is no clear indiication of numbering, look for a circle where the electrodes tend to meet - that may indicate the location where the pig tails of the strips come out of the dura/cranium. From this, the most distal end (farthest from the "circle") willl be contact 1. 
-
-*See drawing below*
-
-
-![StripsDiagram](images/StripsDiagram.png)
-
 
 ## Keyboard Shortcuts:
 
